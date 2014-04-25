@@ -16,7 +16,7 @@
 
 1. It is strongly advised to look at the original CodeBook provided with the raw data
 2. The numbers are normalized to [-1,1]
-3. It is possible to select the meanFreq features, by making appropriate changes to the run_analysis.R. See README.md
+3. It is possible to exclude the meanFreq features, by making appropriate changes to the run_analysis.R. See README.md.
 
 ### Citations
 
